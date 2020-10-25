@@ -32,7 +32,7 @@ Coming soon...
 @inproceedings{zhang2020can,
     author = {Y. Zhang and S. Yang and J. Xiao and S. Shan and X. Chen},
     booktitle = {2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020) (FG)},
-    title = {Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition},
+    title = {Can We Read Speech Beyond the Lips? {R}ethinking {RoI} Selection for Deep Visual Speech Recognition},
     year = {2020},
     pages = {851-858},
     keywords = {visual speech recognition},
