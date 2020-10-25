@@ -8,12 +8,20 @@
 </div>
  
 ## Description
+We provide code and models that can be used to evaluate the methods in our paper [Can We Read Speech Beyond the Lips? Rethinking RoI Selection for Deep Visual Speech Recognition](http://vipl.ict.ac.cn/uploadfile/upload/2020071411181845.pdf). We trained our model on the [LRW dataset](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html) (English) and the [_LRW_-1000 dataset](https://vipl.ict.ac.cn/view_database.php?id=14).
 
-## Update
+## Content
+- [Preprocessing](#preprocessing)
 
-## How to run
+- [How to test](#how-to-test)
 
-## Dataset
+- [Model Zoo](#model-zoo)
+
+- [Citation](#citation)
+
+- [License](#license)
+
+- [Contact](#contact)
 
 ## Model Zoo
 
@@ -38,3 +46,7 @@ Coming soon...
     }
 ```
 
+## Contact
+```
+[Yuanhang Zhang](mailto:#removethisifyouarehuman#zhangyuanhang15@mails.ucas.ac.cn)
+```
